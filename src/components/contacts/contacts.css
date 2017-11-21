@@ -1,0 +1,81 @@
+.contacts{
+    position: absolute;
+    width: 880px;
+    height: 930px;
+    left: 0;
+    top: 2586px;
+    background-color: #292d33;
+}
+#con_pic0{
+    width: 61px;
+    height: 84px;
+    position: absolute;
+    left: 190px;
+    top: 230px;
+    background-image: url("../../imgs/pos.png");
+}
+#con_pic1{
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    left: 190px;
+    top: 410px;
+    background-image: url("../../imgs/phone.png");
+}
+#con_pic2{
+    width: 76px;
+    height: 56px;
+    position: absolute;
+    left: 190px;
+    top: 580px;
+    background-image: url("../../imgs/mail.png");
+}
+#con_0_0{
+    position: absolute;    
+    text-align: left;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    top: 125px;
+    margin-top: 130px;   
+    left: 300px;   
+    width: 950px;
+}
+#con_0_1{
+    position: absolute;    
+    text-align: left;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    top: 295px;
+    margin-top: 130px;   
+    left: 300px;   
+    width: 950px;
+}
+#con_0_2{
+    position: absolute;    
+    text-align: left;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    top: 460px;
+    margin-top: 130px;   
+    left: 300px;   
+    width: 950px;
+}
+#con_0_3{
+    position: absolute;    
+    text-align: left;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: white;
+    top: 630px;
+    margin-top: 130px;   
+    left: 190px;   
+    width: 950px;
+    color: #cfac38;
+}

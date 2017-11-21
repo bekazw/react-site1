@@ -1,0 +1,40 @@
+.footer{
+    position: absolute;
+    width: 1600px;
+    height: 380px;
+    left: 880px;
+    top: 3135px;
+    background-color: #496576;
+}
+#foo_0{
+    position: absolute;
+    width: 313px;
+    height: 67px;
+    left: 280px;
+    top: 170px;
+    background-image: url("../../imgs/logo3.png");
+}
+#foo_1{
+    position: absolute;
+    width: 111px;
+    height: 117px;
+    left: 700px;
+    top: 140px;
+    background-image: url("../../imgs/logo0.png");
+}
+#foo_2{
+    position: absolute;
+    width: 135px;
+    height: 117px;
+    left: 940px;
+    top: 140px;
+    background-image: url("../../imgs/logo2.png");
+}
+#foo_3{
+    position: absolute;
+    width: 135px;
+    height: 109px;
+    left: 1240px;
+    top: 142px;
+    background-image: url("../../imgs/logo1.png");
+}

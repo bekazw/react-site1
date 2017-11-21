@@ -1,0 +1,60 @@
+.logo{
+    position: absolute;
+    width: 100%;
+    top: 630px;
+    height: 1060px;
+    left: 0px;
+    background-color: #292d33;
+}
+#logo_0_0{
+    position: absolute;
+    width: 100%;
+    text-align: right;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    color: white;
+    top: 90px;
+    margin-top: 130px;   
+    left: 1280px;   
+    width: 950px;
+}
+#logo_0_1{
+        position: absolute;
+        width: 100%;
+        text-align: right;    
+        font-family: 'Montserrat', sans-serif;
+        font-size: 140px;
+        font-weight: 800;
+        color: #eecb56;
+        top: 180px;
+        margin-top: 130px;   
+        left: 1280px;   
+        width: 950px;
+}
+#logo_0_2{
+    position: absolute;
+    width: 100%;
+    text-align: right;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    font-weight: 400;
+    color: white;
+    top: 380px;
+    margin-top: 130px;   
+    left: 1280px;   
+    width: 950px;
+}
+#logo_0_3{
+    position: absolute;
+    width: 100%;
+    text-align: justify;    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    top: 530px;
+    margin-top: 130px;   
+    left: 1280px;   
+    width: 950px;
+}

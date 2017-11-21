@@ -1,0 +1,28 @@
+.head{
+    position: absolute;
+    width: 100%;
+    height: 650px;
+    top: 0px;    
+    background-color: white;
+}
+#head_0_0{
+    position: absolute;
+    width: 100%;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+    top: 145px;
+    color: #eecb56;
+    left: 1250px;   
+    width: 950px;    
+}
+#head_block{
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 2270px;
+    top: 185px;
+    background-color: #f4cf59;
+}
